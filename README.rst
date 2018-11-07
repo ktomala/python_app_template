@@ -25,18 +25,20 @@ Usage
 
 First you have to install Cookiecutter:
 
-```
-pip install --user cookiecutter
-```
+.. code::bash
+
+  pip install --user cookiecutter
+
 
 After installing Cookiecutter you can simply create a directory where you want
 your project to be and run cookiecutter:
 
-```
-mkdir -p ~/src/your_project
-cd ~/src/your_project
-cookiecutter https://github.com/ktomala/python_app_template.git
-```
+.. code::bash
+
+  mkdir -p ~/src/your_project
+  cd ~/src/your_project
+  cookiecutter https://github.com/ktomala/python_app_template.git
+
 
 This will setup project template with the specified name from `project_name`
 variable inside the directory you are currently in.

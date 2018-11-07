@@ -1,0 +1,10 @@
+{
+    "project_name": "your_project",
+    "project_title": "Your Project",
+    "project_url": "https://your_project.com",
+    "author": "Author Name",
+    "author_email": "author@email.com",
+    "short_description": "Your Project Description",
+    "year": "2018",
+    "category": "pypi_category"
+}

@@ -1,0 +1,1 @@
+# Requirements for {{cookiecutter.project_name}}

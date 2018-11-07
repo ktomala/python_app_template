@@ -39,11 +39,15 @@ release-major: init-develop
 # Checks and linters
 
 .PHONY: check
-check: pylint
+check: pylint pylama
 
 .PHONY: pylint
 pylint: init-develop
 	pylint $(PACKAGES) --rcfile=.pylintrc
+
+.PHONY: pylama
+pylama: init-develop
+	pylama $(PACKAGES)
 
 # Tests
 

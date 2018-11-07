@@ -1,2 +1,2 @@
-include LICENSE
-
+include LICENSE *.rst *.txt *.md
+recursive-include docs/_build/html *.rst *.txt *.md

@@ -2,3 +2,5 @@ pytest
 sphinx
 babel
 bumpversion
+coverage
+pylint

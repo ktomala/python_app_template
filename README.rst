@@ -40,5 +40,5 @@ your project to be and run cookiecutter:
   cookiecutter https://github.com/ktomala/python_app_template.git
 
 
-This will setup project template with the specified name from `project_name`
+This will setup project template with the specified name from ``project_name``
 variable inside the directory you are currently in.

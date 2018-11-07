@@ -25,7 +25,7 @@ Usage
 
 First you have to install Cookiecutter:
 
-.. code::bash
+.. code:: bash
 
   pip install --user cookiecutter
 
@@ -33,7 +33,7 @@ First you have to install Cookiecutter:
 After installing Cookiecutter you can simply create a directory where you want
 your project to be and run cookiecutter:
 
-.. code::bash
+.. code:: bash
 
   mkdir -p ~/src/your_project
   cd ~/src/your_project

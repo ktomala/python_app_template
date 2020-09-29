@@ -5,6 +5,7 @@
     "author": "Author Name",
     "author_email": "author@email.com",
     "short_description": "Your Project Description",
-    "year": "2018",
-    "category": "pypi_category"
+    "year": "2020",
+    "category": "pypi_category",
+    "use_license": ["yes", "no"]
 }

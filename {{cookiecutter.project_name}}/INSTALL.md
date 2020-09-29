@@ -1,8 +1,6 @@
-{{cookiecutter.project_title}} Installation
-===========================================
+# {{cookiecutter.project_title}} Installation
 
-Requirements
-------------
+## Requirements
 
 * Python 3.6
 

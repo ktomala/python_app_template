@@ -6,6 +6,10 @@
     "author_email": "author@email.com",
     "short_description": "Your Project Description",
     "year": "2020",
-    "category": "pypi_category",
-    "use_license": ["yes", "no"]
+    "use_license": ["yes", "no"],
+    "project_main": "main",
+    "project_main_entrypoint": "main",
+    "script_name": "your_project",
+    "use_command_line_script": ["yes", "no"],
+    "use_i18n": ["yes", "no"]
 }

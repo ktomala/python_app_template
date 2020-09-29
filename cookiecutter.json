@@ -10,6 +10,5 @@
     "project_main": "main",
     "project_main_entrypoint": "main",
     "script_name": "your_project",
-    "use_command_line_script": ["yes", "no"],
-    "use_i18n": ["yes", "no"]
+    "use_command_line_script": ["yes", "no"]
 }
